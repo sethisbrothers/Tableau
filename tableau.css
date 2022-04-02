@@ -1,0 +1,10 @@
+table{
+    border: 1px solid blue;
+    border-collapse: collapse;
+    width:250px;
+    
+}
+td{border: 1px solid blue;}
+th{border:1px solid blue; background-color:yellow;}
+caption{text-decoration: underline; color:blue; font-weight: bolder;}
+#Dev{ text-indent: 5px; font-weight: 10;}
